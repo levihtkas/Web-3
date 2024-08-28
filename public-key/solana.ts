@@ -1,4 +1,4 @@
-mport nacl from "tweetnacl";
+import nacl from "tweetnacl";
 import { generateMnemonic, mnemonicToSeedSync } from "bip39";
 import { derivePath } from "ed25519-hd-key";
 import { derivePath } from "ed25519-hd-key";
